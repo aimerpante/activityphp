@@ -1,0 +1,9 @@
+admin                   admin           Pass1234 
+admin                   renmark         Pogi1234 
+content manager         pepito          manaloto 
+content manager         patrick         manalo 
+system user             pedro           penduko 
+
+
+
+
